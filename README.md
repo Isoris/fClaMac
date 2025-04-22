@@ -75,4 +75,4 @@ Please cite the Zenodo record when using the data or assemblies.
 
 ---
 
-Maintained by Quentin L.S. Andres, PhD.
+Maintained by Quentin L.S. Andres, PhD. Project under Kasetsart University, THAILAND, Animal Genomics and Bioresources Research Unit. [AGB Research Unit](https://www.agb-ku.com/)
